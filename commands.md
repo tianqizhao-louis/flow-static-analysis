@@ -1,7 +1,7 @@
 ```zsh
-npm run flow ast ./src/test.js  
+yarn run flow ast ./src/test.js  
 ```
 
 ```zsh
-npm run flow coverage ./src/app.js
+yarn run flow coverage ./src/app.js
 ```
